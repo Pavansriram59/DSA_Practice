@@ -1,0 +1,28 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Generated executables
+*.bin
+*~
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# C/C++ specific
+*.dSYM/
+*.gch
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
